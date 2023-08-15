@@ -25,3 +25,36 @@ def f_book():
     f_no = input("Enter the correct flight no:")
     if f_no in flight_details['Flight_No']:
             
+
+
+
+def f_status():
+
+
+
+
+
+
+
+def f_avail():
+
+
+
+
+
+def f_cancel():
+
+
+
+
+
+
+
+def f_sched():
+
+
+
+
+
+
+def user_flight():
